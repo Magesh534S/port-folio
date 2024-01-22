@@ -1,0 +1,36 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+header{
+    text-align: center;
+    color: rgb(220, 157, 75)
+}
+
+h3{
+    color: rgb(35, 135, 102);
+}
+
+li{
+    color: rgb(59, 222, 214);
+}
+
+pre{
+    color: #4dffc4;
+}
+
+table, th, td {
+    margin-top: 30px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+
+th{
+    background-color: blue;
+}
